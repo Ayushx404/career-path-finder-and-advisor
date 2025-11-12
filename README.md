@@ -1,4 +1,4 @@
-# Career Path Finder and Advisor by abhijit more
+# Career Path Finder and Advisor 
 
 A full-stack application designed to help users find and plan their career paths.
 
