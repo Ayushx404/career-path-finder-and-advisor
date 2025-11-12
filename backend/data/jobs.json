@@ -1,0 +1,82 @@
+[
+{
+"id": "j1",
+"title": "Junior Frontend Developer",
+"industry": "Tech",
+"description": "Builds and maintains user-facing websites and applications",
+"salary_range": [60000, 80000],
+"required_skills": ["html", "css", "javascript", "react", "git"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j2",
+"title": "Junior Backend Developer",
+"industry": "Tech",
+"description": "Develops server-side logic and maintains databases",
+"salary_range": [65000, 85000],
+"required_skills": ["python", "sql", "api", "git", "docker"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j3",
+"title": "Data Analyst",
+"industry": "Business",
+"description": "Analyzes data to help companies make better decisions",
+"salary_range": [55000, 75000],
+"required_skills": ["sql", "python", "excel", "tableau", "statistics"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j4",
+"title": "Senior Frontend Developer",
+"industry": "Tech",
+"description": "Leads frontend projects and mentors junior developers",
+"salary_range": [100000, 140000],
+"required_skills": ["javascript", "react", "typescript", "testing", "architecture", "leadership"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j5",
+"title": "Data Scientist",
+"industry": "Tech",
+"description": "Builds ML models and derives insights from complex data",
+"salary_range": [95000, 150000],
+"required_skills": ["python", "machine-learning", "sql", "statistics", "deep-learning", "communication"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j6",
+"title": "DevOps Engineer",
+"industry": "Tech",
+"description": "Manages infrastructure and deployment pipelines",
+"salary_range": [90000, 130000],
+"required_skills": ["docker", "kubernetes", "aws", "python", "ci-cd", "linux"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j7",
+"title": "Product Manager",
+"industry": "Business",
+"description": "Defines product strategy and works with cross-functional teams",
+"salary_range": [95000, 140000],
+"required_skills": ["communication", "analytics", "leadership", "strategy", "agile"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j8",
+"title": "UX Designer",
+"industry": "Design",
+"description": "Designs user experiences and interfaces",
+"salary_range": [70000, 110000],
+"required_skills": ["design", "figma", "user-research", "prototyping", "html", "css"],
+"experience_level": "mid",
+"growth_score": 8
+}
+]
