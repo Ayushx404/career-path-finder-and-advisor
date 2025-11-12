@@ -103,6 +103,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Ayushx404 - [Your Email or Profile Link]
+Email - aayush.roha@gmail.com
 
 Project Link: [https://github.com/Ayushx404/career-path-finder-and-advisor](https://github.com/Ayushx404/career-path-finder-and-advisor)
