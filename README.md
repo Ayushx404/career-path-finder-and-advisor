@@ -178,4 +178,4 @@ See the `LICENSE` file in the repository's root for the full license text.
 
 Ayushx404 - aayush.roha@gmail.com
 
-Website Link: [Career Path Finder](https://career-path-finder-and-advisor-1hr1.vercel.app/
+Website Link: [Career Path Finder](https://career-path-finder-and-advisor-1hr1.vercel.app/)
