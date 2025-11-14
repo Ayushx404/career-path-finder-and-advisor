@@ -1,4 +1,7 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+// src/api.js
+const API = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+
+const API_BASE_URL = `${API}/api`;
 
 export const careerAPI = {
   async getAllSkills() {
