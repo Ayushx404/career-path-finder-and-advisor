@@ -178,4 +178,4 @@ See the `LICENSE` file in the repository's root for the full license text.
 
 Ayushx404 - aayush.roha@gmail.com
 
-Project Link: [GitHub](https://github.com/AyushProbopass/career-path-finder-and-advisor)
+Website Link: [Career Path Finder](https://career-path-finder-and-advisor-1hr1.vercel.app/
